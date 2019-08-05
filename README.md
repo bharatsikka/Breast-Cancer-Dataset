@@ -21,3 +21,6 @@ Equations involved:
 
 
 ![Logo](/hypothesis.png)
+
+
+![Logo](/gradient_descent)
