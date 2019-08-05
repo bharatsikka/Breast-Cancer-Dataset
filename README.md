@@ -6,7 +6,7 @@
 ![Logo](/bctrain.png)
 
 
-1. Test Set
+2. Test Set
 
 
 
